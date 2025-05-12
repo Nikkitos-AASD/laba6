@@ -33,6 +33,7 @@ pattern = r"\b(?:[01]?\d|2[0-3]):[0-5]?\d:[0-5]?\d\b"
 ![image](https://github.com/user-attachments/assets/679a2ce2-976c-45fd-8faf-9f0fd7cd7042)
 ![image](https://github.com/user-attachments/assets/518666b8-ddf7-4a17-a097-eb4f7f009674)
 Дополнительное задание:
-![image](https://github.com/user-attachments/assets/6fa948cb-57a9-479f-a9ac-64d76d319920)
+![image](https://github.com/user-attachments/assets/85f77110-4937-423c-8e90-05b5e5035ea6)
+
 
 
